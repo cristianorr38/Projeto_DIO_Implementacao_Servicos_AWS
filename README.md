@@ -21,8 +21,10 @@ O foco principal foi **redução de custos imediatos** e **eficiência operacion
 ```plaintext
 📂 Projeto_DIO_Implementacao_Servicos_AWS
 ├── 📂 data
+│   ├── 📄 
 │
 ├── 📂 docs
+│
 │
 ├── 📂 reports
 │   ├── 📄 
@@ -83,7 +85,39 @@ Progresso atual:
 **Título:** Implementação de Serviços AWS – Abstergo Industries  
 **Versão:** v1.0  
 **Autor:** Cristiano Rodrigues Rosa  
-**Descrição:** Projeto concluído com foco em otimização de custos e eficiência operacional utilizando EC2 Auto Scaling, Amazon S3 e Amazon RDS.  
+**Descrição:** Projeto concluído com foco em otimização de custos e eficiência operacional utilizando EC2 Auto Scaling, Amazon S3 e Amazon RDS.
+
+## 📚 Documentação
+
+### Manuais e Documentos Técnicos
+
+- **Guia do Usuário – Amazon EC2 Auto Scaling**  
+  Documentação sobre como configurar políticas de escalonamento baseadas em CPU ou tráfego.  
+  🔗 [Link Oficial](https://docs.aws.amazon.com/autoscaling/)
+
+- **Otimização de Custos com Amazon S3**  
+  Guia sobre as classes de armazenamento e como economizar com o ciclo de vida dos dados.  
+  🔗 [Link Oficial](https://aws.amazon.com/pt/s3/cost-optimization/)
+
+- **Melhores Práticas para Amazon RDS**  
+  Manual sobre segurança, backup e alta disponibilidade para bancos de dados farmacêuticos.  
+  🔗 [Link Oficial](https://docs.aws.amazon.com/rds/)
+
+- **AWS Pricing Calculator**  
+  Ferramenta interativa para simular a economia mensal exata ao migrar para estes serviços.  
+  🔗 [Link Oficial](https://calculator.aws/#/)
+
+---
+
+## 📎 Anexos
+
+- **Planilha de Comparativo de Custos (TCO):** `TCO_Abstergo_Industries_AWS_v1.xlsx`
+
+---
+
+## ✍️ Assinatura do Responsável pelo Projeto
+
+**Cristiano Rodrigues Rosa**
 
 ---
 
