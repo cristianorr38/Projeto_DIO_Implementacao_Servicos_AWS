@@ -52,7 +52,7 @@ O foco principal foi **redução de custos imediatos** e **eficiência operacion
 
 ---
 
-## 📈 Checklist de Progresso
+## 📈 Checklist do Progresso
 Etapas concluídas e melhorias planejadas:
 
 - [x] Implementação do EC2 Auto Scaling  
