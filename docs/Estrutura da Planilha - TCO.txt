@@ -1,0 +1,19 @@
+Estrutura da Planilha
+
+- Resumo Executivo (Guia 1 da planilha):
+
+Computação: Compara o custo fixo de servidores locais versus o Amazon EC2 Auto Scaling, que reduz gastos durante a madrugada ou períodos de baixa demanda.
+
+Armazenamento: Mostra a diferença entre manter storage físico caro e o Amazon S3, utilizando camadas de arquivamento para documentos regulatórios antigos.
+
+Custos Indiretos: Inclui gastos que muitas vezes são esquecidos no On-Premise, como energia elétrica, ar-condicionado e espaço físico em Data Center, que passam a ser zero na AWS.
+
+Mão de Obra: Reflete a economia de tempo da equipe de TI ao utilizar o Amazon RDS, que automatiza backups e atualizações.
+
+- Detalhamento Técnico (Guia 2 da planilha):
+
+Apresenta as justificativas para cada escolha, alinhando a tecnologia aos objetivos de negócio (ex: escalabilidade para o portal de pedidos e segurança de dados de estoque).
+
+- Como ler os resultados:
+
+A planilha aponta uma economia mensal significativa, principalmente pela conversão de Custos de Capital (CapEx - comprar máquinas) em Custos Operacionais (OpEx - pagar pelo uso). Para uma distribuidora, essa liquidez financeira permite investir mais em frota logística ou novas parcerias farmacêuticas.
