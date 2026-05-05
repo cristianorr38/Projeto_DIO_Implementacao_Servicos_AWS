@@ -1,11 +1,11 @@
 # 🚀 Projeto de Implementação AWS – Abstergo Industries
 
 ![Status](https://img.shields.io/badge/status-concluído-blue)
+![Build](https://img.shields.io/badge/build-success-success)
 ![Versão](https://img.shields.io/badge/release-v1.0-blue)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS)](https://github.com/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS)
-[![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS?style=social)]
 ![GitHub forks](https://img.shields.io/github/forks/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS?style=social)
-![GitHub issues](https://img.shields.io/github/issues/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS)
+[![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS?style=social)](https://github.com/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS)
 ![Licença](https://img.shields.io/badge/license-MIT-yellow)
 
@@ -21,15 +21,16 @@ O foco principal foi **redução de custos imediatos** e **eficiência operacion
 ```plaintext
 📂 Projeto_DIO_Implementacao_Servicos_AWS
 ├── 📂 data
-│   ├── 📄 
+│   └── 📄 TCO_Abstergo_Industries_AWS_v1.xlsx
 │
 ├── 📂 docs
-│
+│   ├── 📄 Instruções_Projeto.txt
+│   └── 📄 Estrutura da Planilha - TCO.txt
 │
 ├── 📂 reports
-│   ├── 📄 
-│   └── 📄 
+│   └── 📄 Relatorio de Implementacao de Servicos AWS.pdf
 │
+├── 📄 LICENCE
 └── 📄 README.md
 ```
 
@@ -51,7 +52,7 @@ O foco principal foi **redução de custos imediatos** e **eficiência operacion
 
 ---
 
-## 📈 Gráfico de Progresso
+## 📈 Checklist de Progresso
 Etapas concluídas e melhorias planejadas:
 
 - [x] Implementação do EC2 Auto Scaling  
@@ -117,7 +118,7 @@ Progresso atual:
 
 ## ✍️ Assinatura do Responsável pelo Projeto
 
-**Cristiano Rodrigues Rosa**
+**<img width="198" height="39" alt="image" src="https://github.com/user-attachments/assets/42980494-805a-472a-a8a9-d4acff0c50e1" />**
 
 ---
 
