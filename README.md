@@ -5,8 +5,6 @@
 ![Versão](https://img.shields.io/badge/release-v1.0-blue)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS)](https://github.com/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS)
 ![GitHub forks](https://img.shields.io/github/forks/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS?style=social)
-[![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS?style=social)](https://github.com/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS)
-![GitHub last commit](https://img.shields.io/github/last-commit/cristianorr38/Projeto_DIO_Implementacao_Servicos_AWS)
 ![Licença](https://img.shields.io/badge/license-MIT-yellow)
 
 ---
